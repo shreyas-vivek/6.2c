@@ -48,7 +48,7 @@ post {
 
    success {
 
-       mail to: "dhruvwaghela98@gmail.com",
+       mail to: "shreyasvivek01@gmail.com",
 
        subject: "Security Scan Status",
 
